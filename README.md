@@ -1,16 +1,43 @@
-### Hi there 👋
+# Perfil GitHub - mioj0kt
 
-<!--
-**mioj0kt/mioj0kt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👋 Olá, mundo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bem-vindo ao meu espaço digital! Sou Matheus, um apaixonado por Ciência da Computação e estudante na PUC Minas. Atualmente, estou imerso no universo da programação, explorando desde o front-end até linguagens de baixo nível, como C.
+
+---
+
+## 📚 Educação
+
+**Ciência da Computação | PUC Minas**  
+*Período: 2024 - Presente*
+
+Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estruturas de dados e paradigmas de programação. Estou sempre buscando aprender e aplicar novas tecnologias para melhorar minhas habilidades técnicas.
+
+---
+
+## 🌐 Redes Sociais
+
+- [Twitter](https://twitter.com/mioj0_KT)
+- [Discord](mioj0)
+  
+---
+
+## 💡 Interesses
+
+- Desenvolvimento Web
+- Algoritmos e Estruturas de Dados
+- Programação de Sistemas
+
+---
+
+(https://www.conjur.com.br/img/b/emoji-joinha.jpeg)
+
+---
+
+## 🤝 Let's Connect!
+
+Estou aberto a colaborações e oportunidades emocionantes! Se você está procurando um desenvolvedor dedicado e entusiasmado, sinta-se à vontade para entrar em contato.
+
+*Vamos construir algo incrível juntos!* 👨‍💻✨
