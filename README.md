@@ -32,7 +32,7 @@ Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estrutura
 
 ---
 
-(https://www.conjur.com.br/img/b/emoji-joinha.jpeg)
+!(https://www.conjur.com.br/img/b/emoji-joinha.jpeg)
 
 ---
 
