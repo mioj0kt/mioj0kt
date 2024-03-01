@@ -20,7 +20,6 @@ Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estrutura
 ## 🌐 Redes Sociais
 
 - [Twitter](https://twitter.com/mioj0_KT)
-- [Discord](mioj0)
   
 ---
 
@@ -32,7 +31,7 @@ Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estrutura
 
 ---
 
-(https://www.conjur.com.br/img/b/emoji-joinha.jpeg)
+<img src="https://www.conjur.com.br/img/b/emoji-joinha.jpeg">
 
 ---
 
