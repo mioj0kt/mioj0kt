@@ -31,12 +31,10 @@ Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estrutura
 
 ---
 
-<img src="https://www.conjur.com.br/img/b/emoji-joinha.jpeg">
-
----
-
 ## 🤝 Let's Connect!
 
 Estou aberto a colaborações e oportunidades emocionantes! Se você está procurando um desenvolvedor dedicado e entusiasmado, sinta-se à vontade para entrar em contato.
 
 *Vamos construir algo incrível juntos!* 👨‍💻✨
+
+<img src="https://www.conjur.com.br/img/b/emoji-joinha.jpeg" width="400">
