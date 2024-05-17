@@ -16,12 +16,12 @@
 
 <br clear="both">
 
-<img align=right height="400" src="https://media.discordapp.net/attachments/989669254754365470/1187129451583119481/cidade_vermeia.gif?ex=662b65b5&is=662a1435&hm=fb71787455116b6948047953398010f30ec74cfbecb3c674822e6c9a843b6fb7&="  />
+<img align=right height="400" src="https://github.com/mioj0kt/mioj0kt/blob/main/imgs/cidade.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mioj0kt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=shadow_red&disable_animations=false&locale=en&hide_border=false" height="160" alt="stats graph" /> <br>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mioj0kt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_red&hide_border=true&custom_title=Linguagens%20Mais%20Usadas" height="150" alt="languages graph"  />
 </div>
 
@@ -30,7 +30,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mioj0kt.mioj0kt&left_color=black&right_color=darkred&left_text=VISITANTES"  />
 </div>
-<hr>
 
 <br clear="both">
 
@@ -38,7 +37,7 @@
 
 ###
 
-<img align="left" height="196" src="https://media.discordapp.net/attachments/989669254754365470/1048672656947425393/nave.gif?ex=66240e84&is=66119984&hm=5147c39f8fbb907d2b3fa1959ec5be8e73ca87a8487e0f53bb09f38de5a2c00d&=&width=670&height=670"  />
+<img align="left" height="196" src="https://github.com/mioj0kt/mioj0kt/blob/main/imgs/nave.gif"  />
 
 ###
 
@@ -56,7 +55,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.discordapp.net/attachments/989669254754365470/1067237136488730634/caneco.gif?ex=6626fe89&is=66148989&hm=734083c7dab0fc8d156cbeb4b81f31573c60cb447a67ef2b3a72fa7042f53fbf&=&width=670&height=670"  />
+<img align="right" height="200" src="https://github.com/mioj0kt/mioj0kt/blob/main/imgs/cafe.gif"  />
 
 ###
 
