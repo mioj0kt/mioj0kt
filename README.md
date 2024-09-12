@@ -69,7 +69,7 @@
 
 ###
 
-<p align="center">Sou um estudante de Ciência da Computação da PUC Minas, atualmente estou imerso no aprendizado de HTML, CSS e Javascript para desenvolvimento web, enquanto simultâneamente aprimoro minhas habilidades de programação com C, C# e Java, explorando desde os conceitos básicos até desafios mais avançados.</p>
+<p align="center">Sou um estudante de Ciência da Computação da PUC Minas, atualmente estou imerso no aprendizado de HTML, CSS e Javascript para desenvolvimento web, enquanto simultaneamente aprimoro minhas habilidades de programação com C, C# e Java, explorando desde os conceitos básicos até desafios mais avançados.</p>
 
 ###
 
